@@ -1,0 +1,21 @@
+CustomerID,Age,AnnualIncome(k$),SpendingScore(1-100),Cluster,Cluster_Label
+1,22,15,39,1,High Spenders
+2,25,16,81,1,High Spenders
+3,47,90,6,2,Occasional Buyers
+4,52,95,77,3,Loyal Customers
+5,46,70,40,2,Occasional Buyers
+6,56,80,80,3,Loyal Customers
+7,55,85,76,3,Loyal Customers
+8,60,90,94,3,Loyal Customers
+9,32,45,77,0,Budget Shoppers
+10,34,50,60,0,Budget Shoppers
+11,23,18,20,1,High Spenders
+12,26,20,22,1,High Spenders
+13,40,60,45,0,Budget Shoppers
+14,29,38,59,0,Budget Shoppers
+15,37,55,63,0,Budget Shoppers
+16,43,65,50,0,Budget Shoppers
+17,50,78,55,0,Budget Shoppers
+18,48,72,48,0,Budget Shoppers
+19,36,58,66,0,Budget Shoppers
+20,31,48,70,0,Budget Shoppers
